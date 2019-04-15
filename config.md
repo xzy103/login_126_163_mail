@@ -25,9 +25,8 @@
 重启电脑就ok了！
 
 ## 第五步（可选） python安装selenium
-如果装得有python3.5+d的话，可以安装selenium库。  
+如果装得有python3.5+的话，可以安装selenium库。  
 打开cmd，输入`pip install --user selenium`即可。  
-
 
 --------------------------------------------  
 
